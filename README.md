@@ -7,10 +7,10 @@ This project is dedicated to the creation of simple microrobots with the ability
 
 ## Project goals
 ---
--develop a robot design
--develop a robot program
--create a robot prototype
--create a printed circuit board
+* develop a robot design
+* develop a robot program
+* create a robot prototype
+* create a printed circuit board
 
 ## How load code for Attiny13?
 ---
