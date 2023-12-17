@@ -23,3 +23,4 @@ The microrobot runs on attini13. The robot receives information from the environ
 ---
 On top of the robot there is an LED and a photoresistor. If the light on the street or in the room is too bright, then the robot is inactive; if the light is too bright, then the robot is also inactive. When the light is not too bright, but not yet dark, the robot begins to move using a vibration motor and flashes the LED.
 Robots can be united using magnets located on the edges of the robot.
+Language: ![https://ing.shields/io/badge/C++ -red](https://ing.shields/io/badge/C++ -red)
