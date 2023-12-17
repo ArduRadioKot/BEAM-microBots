@@ -15,6 +15,7 @@ This project is dedicated to the creation of simple microrobots with the ability
 ## How load code for Attiny13?
 ---
  To add Attini 13 support, launch the Arduino IDE and select File > Preferences. Copy the following URL into the Additional Board Manager URLs field: https://raw.githubusercontent.com/sleemanj/optiboot/master/dists/package_gogo_diy_attiny_index.json.
+ ![Alt-text](https://voltiq.ru/wp-content/uploads/program-attiny-13-attiny-13-a-arduino-ide-5.jpg "Ork")
 ## Hardware
 ---
 The microrobot runs on attini13. The robot receives information from the environment using a photoresistor, moves using a vibration motor, and also sends signals using an SMD LED located next to the printed circuit board.
