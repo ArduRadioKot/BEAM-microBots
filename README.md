@@ -11,6 +11,10 @@ This project is dedicated to the creation of simple microrobots with the ability
 * develop a robot program
 * create a robot prototype
 * create a printed circuit board
+  
+## Where is everyfhing?
+---
+The frimware folder contains an ino file with the program. In the hardware folder there is a gerber file with a printed circuit board. The 3D folder stores parts to be printed on a 3D printer.
 
 ## How load code for Attiny13?
 ---
