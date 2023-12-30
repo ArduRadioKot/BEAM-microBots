@@ -10,7 +10,7 @@ pinMode(pin_led, OUTPUT);
 
 void loop() {
  foto_slate = analogRead(A2);
- if(foto_state < dayy && > 300 ){
+ if(foto_state < dayy && dayy > 300 ){
   nightlife();
  }
 }
